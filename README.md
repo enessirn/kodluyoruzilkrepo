@@ -14,4 +14,8 @@ Kodluyoruz Front End Eğitimi kapsamında açtığım ilk repo
 
 ### Teşekkür ederim Kodluyoruz Ekibi özellikle de Hakan Hocam ♥
 ------------------
-![Image] (https://github.com/enessirn/kodluyoruzilkrepo/blob/main/img/Ads%C4%B1z.png)
+
+
+![Image][1]
+⋮
+[1]: https://github.com/enessirn/kodluyoruzilkrepo/blob/main/img/Ads%C4%B1z.png
